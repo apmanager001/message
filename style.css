@@ -15,9 +15,23 @@ body {
 body h1{
     color: white;
     font-size: 48px;
-    padding: 48px;
+    padding-top: 36px;
 }
+.coninst {
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    background-color: black;
+    top: 0;
+}
+.instructions {
+    
+    
+    color: white;
+    
+    
 
+}
 .textbox input {
     height: 35px;
     font-size: 24px;
