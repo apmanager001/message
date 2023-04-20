@@ -1,14 +1,14 @@
 # Custom Madlib
 
-##Description
+## Description
 This project allows the user to do 2 things: 
 1. The usser can input their own words into a Madlib 
 2. The user can randomly generate their own Madlib. 
 
-##Features
+## Features
 When the user is inputing their own words, if any words are missing it will not let the user submit. It requires every textbox to be completed.
 
-##Languages
+## Languages
 1. HTML
 2. CSS
 3. JavaScript
